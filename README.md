@@ -10,10 +10,10 @@ A lightweight Python script that sends you desktop notifications at regular inte
 - Simple and clean code structure
 
 ## Repository Structure
-
+```
 Water_reminder/ ├── main.py              # The main script 
                 └── waterdrip.mp3        # Audio file for notification sound
-
+```
 ## Installation
 
 1. **Clone the repository**
